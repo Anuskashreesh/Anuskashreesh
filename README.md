@@ -1,4 +1,4 @@
-### Namaste 👋
+### Namaste 🙏🏼
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anuska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuska-shreesh-ab1082226/)](https://www.linkedin.com/in/anuska-shreesh-ab1082226/)
