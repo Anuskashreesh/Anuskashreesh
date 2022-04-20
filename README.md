@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Namaste 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anuska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuska-shreesh-ab1082226/)](https://www.linkedin.com/in/anuska-shreesh-ab1082226/)
@@ -27,13 +27,13 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
+- 🔭 I’m currently studying 
+- 🌱 I’m currently learning javascript,c#,angular,HTML,CSS
+- 👯 I’m looking to collaborate on javascript
+- 🤔 I’m looking for help with API
+- 💬 Ask me about anything
+- 📫 How to reach me: linkedin
+- 😄 Pronouns: Anu
+- ⚡ Fun fact: bla bla bla
 
 -->
