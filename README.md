@@ -5,7 +5,7 @@
 
 
 
-I'm intern at edureka as a 
+I'm    
 Full Stack web developer.  I have a knowledge about back-end development using open source technologies (NodeJs,C#,Java),  front-end development (React, Angular, HTML, CSS, Javascript), Server Administrator(AWS,Azure),database(MongoDB, SQL server)
 
 
